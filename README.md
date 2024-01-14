@@ -1,4 +1,4 @@
-# **IF YOU ARE USING THIS FOR A TOURNAMENT, PLEASE PROVIDE CREDIT AS A LINK TO THIS REPO. THANKS!**
+# **I didn't create this, I just fixed a few errors and uploaded it for use by my esports club (ESPORT SGU). Here is the official link: https://github.com/colinhartigan/ggsheet. . THANKS!**
 
 [![Discord](https://img.shields.io/badge/discord-join-7389D8?style=flat&logo=discord)](https://discord.gg/uGuswsZwAT)
 
